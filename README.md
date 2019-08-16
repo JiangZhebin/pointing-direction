@@ -13,12 +13,12 @@ This project uses Orbbec Astra SDK to detect arm gesture to determin which objec
 
 
 **Full Install Instruction**
-'''
+```
 ssh turtlebot@192.168.178.25  (under intensechoi network)
 cd pointing-direction/build
 export DISPLAY=:0
 ./Gesture_recognition
-'''
+```
 
 
 
