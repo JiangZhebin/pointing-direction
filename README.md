@@ -1,6 +1,8 @@
 # gesture_recognition
 
 This project uses Orbbec Astra SDK to detect arm gesture to determin which object the user is pointing to.
+x-positive direction:  Right
+
 
 **If license expires please download the latest sdk from Orbbec.**
 
